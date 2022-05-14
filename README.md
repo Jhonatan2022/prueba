@@ -4,7 +4,8 @@
 
 ---
 
-![image presentation](https://github.com/luis-fer993/Proyecto-sena-Secode_QR/blob/main/secode/assets/img/img-presentation.png?raw=true)
+![image presentación](https://user-images.githubusercontent.com/101368711/168429438-f1ff699e-72d8-46db-b80a-9ccab45958d5.png)
+
 
 ---
 
